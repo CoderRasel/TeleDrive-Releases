@@ -1,0 +1,11 @@
+{
+  "version": "v0.0.10",
+  "notes": "v0.0.10 update",
+  "pub_date": "2026-06-30T16:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMUtZR1VybTZkNzhhK3JMaXJRNXdKZmJkY095M0o0d0RmL2I0U2dndWQzSVpybnNUOFN4ZGxIdFREVHN3OWVmM2tKMGZ4MEJHdVNBUDFSQ0UvNUoxMm9lVEJobGlLQVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODM3MDc1CWZpbGU6VGVsZURyaXZlXzAuMC4xMF94NjQtc2V0dXAuZXhlCmFkSzlZUkVFWS9XdWYvcHlCQUYrZjBzdnZhWXNyczQ2cjNRYTBZZ05wYnRoMUtEVGhVNFRaUzQ3bkhvSnhHODd4ckZTWStMamdWNjFFaU5CQ29oL0J3PT0K",
+      "url": "https://github.com/CoderRasel/TeleDrive-Releases/releases/download/v0.0.10/TeleDrive_0.0.10_x64-setup.exe"
+    }
+  }
+}
