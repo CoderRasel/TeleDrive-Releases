@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CoderRasel/TeleDrive/main/src-tauri/icons/128x128.png" width="128" height="128" alt="TeleDrive Logo" />
+  <img src="public/logo.png" width="128" height="128" alt="TeleDrive Logo" />
   
   <h1>TeleDrive</h1>
   
